@@ -1,0 +1,24 @@
+data.json
+README.md
+testSynchro.py
+workspace.code-workspace
+Codewars/Kata1.py
+Codewars/Kata2.py
+Codewars/Kata3.py
+Codewars/Kata4.py
+Codewars/reverseOrder.py
+Codewars/vowelsCount.py
+Devnet/Rest API/dnaCputDevice.py
+Devnet/Rest API/dnaCRestApiCall.py
+Devnet/Rest API/__pycache__/dnaCRestApiCall.cpython-38.pyc
+Inventory/constructInventory.py
+Inventory/getData.py
+Python - The cyber mentor/first.py
+Python - The cyber mentor/math.py
+Python - The cyber mentor/script.py
+Test/from ncclient import manager
+Test/from netmiko import ConnectHandler
+Test/noipdomain.yml
+Test/Script.py
+Test/telnet.py
+TestVim/test
