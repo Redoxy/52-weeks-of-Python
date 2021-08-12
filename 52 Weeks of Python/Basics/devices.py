@@ -7,6 +7,8 @@ from  pprint import pprint
 # empty list for holding devices
 devices = list()
 
+# add comment
+
 # for loop to create large number of devices
 for index in range(1,101):
     # create device dictionary
