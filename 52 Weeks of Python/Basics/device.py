@@ -21,5 +21,5 @@ pprint(device)
 
 #  For Loop, nicely formatted print
 print("\n_______ For Loop _______")
-for key,value in device.items():
-    print(f"{key:>16s} : {value}")
+for x,y in device.items():
+    print(f"{x:>16s} : {y}")
